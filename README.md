@@ -7,7 +7,7 @@
 
 ![Rômulo GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloALvesF&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloALves&layout=compact)](https://github.com/RomuloALves/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloALves&layout=compact)]
 
 ## TECNOLOGIAS QUE UTILIZO 💻
 
